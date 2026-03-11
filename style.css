@@ -90,6 +90,7 @@ Main start
     float: left;
 
  }
+ 
  .common-hr{
     border: solid  black 1.5px;
     width: 100%;
@@ -100,7 +101,6 @@ Main start
  .edu-tem-left{
     width: 45%;
     float: left;
-
  }
 
  .edu-tem-right{
@@ -108,8 +108,21 @@ Main start
      width: 45%;
     float: right;
  }
+  .edu-tem-left-p{
+    width: 30%;
+    float: left;
+ }
 
+ .edu-tem-right-p{
 
+     width: 70%;
+    float: right;
+ }
+
+.li{
+            text-indent: 50px ;
+
+        }
  /*-------------------------
 Main End
  -------------------------*/
