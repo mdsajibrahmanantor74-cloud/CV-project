@@ -81,6 +81,7 @@ Main start
 
  }
  .left-div{
+    text-decoration: underline;
     width: 30%;
     float: left;
 
@@ -95,6 +96,11 @@ Main start
     border: solid  black 1.5px;
     width: 100%;
     margin: 20px  auto;
+
+ }
+  .common-bdr{
+    border: solid  black 1px;
+    width: 100%;
 
  }
 
@@ -119,10 +125,7 @@ Main start
     float: right;
  }
 
-.li{
-            text-indent: 50px ;
 
-        }
  /*-------------------------
 Main End
  -------------------------*/
